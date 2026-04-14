@@ -59,7 +59,7 @@ def search_and_play():
 
 
 def main():
-    console.print(Panel("🎧 MySpotify CLI", subtitle="cool version"))
+    console.print(Panel("🎧 MySpotify CLI", subtitle="myspotify_terminal"))
 
     while True:
         show_now_playing()
