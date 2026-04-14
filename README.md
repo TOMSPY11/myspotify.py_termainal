@@ -41,3 +41,13 @@ python3 myspotify.py
 
 * Must add your account in "Users and Access" (Developer Dashboard)
 * Premium required for playback
+
+
+
+
+
+
+
+
+
+  * this version of Cli is made for Macos;it may not work in linux 
